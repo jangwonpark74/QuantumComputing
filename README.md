@@ -8,3 +8,6 @@
 
 ## Google Quantum Supremacy paper
  - [Characterizing Quantum Supremacy in Near-Term Devices](https://arxiv.org/abs/1608.00263)
+
+## Quantum Circuit Calculation
+ - [Wolframe Quantum Circuit Simulation](https://community.wolfram.com/groups/-/m/t/897811)
